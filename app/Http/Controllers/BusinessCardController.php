@@ -3,9 +3,7 @@
 namespace App\Http\Controllers;
 
 use App\Http\Resources\BusinessCardCollection;
-use App\Http\Resources\BusinessCardResource;
 use App\Resources\BusinessCards\BusinessCard;
-use Illuminate\Http\Resources\Json\JsonResource;
 
 class BusinessCardController
 {
